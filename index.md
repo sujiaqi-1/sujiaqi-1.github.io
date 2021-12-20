@@ -7,16 +7,10 @@
       <p><b>邮箱：sjq1106478286@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/touxiang.jpeg" width="100%">      % 插入证件照代码
+      <img src="/touxiang.jpeg" width="100%">      
     </td>
   </tr>
 </table>
-
-### 个人信息
-#### 姓名：苏家琪
-#### 学历：硕士
-#### 学习：苏州大学
-#### 邮箱：sjq1106478286@163.com
 
 
 ### 研究方向
